@@ -1,0 +1,1 @@
+import{i as e}from"./request-D79iTt0s.js";let t=a=>e({method:"GET",url:"/cinemaList",params:a}),m=a=>e({method:"GET",url:"/cinemaInfo",params:{cinemaId:a}}),l=a=>e({method:"GET",url:"/filmSchedule",params:{cinemaId:a}}),n=a=>e({method:"GET",url:"/playSchedule",params:a});export{m as a,n as b,l as p,t as y};
